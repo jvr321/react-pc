@@ -1,0 +1,14 @@
+.parent{
+    width: 500px;
+    background:pink;
+    padding: 10px;
+}
+.child{
+    background-color: red;
+    padding: 10px;
+}
+.grand{
+    background-color: blue;
+    color: #fff;
+    padding: 10px;
+}
